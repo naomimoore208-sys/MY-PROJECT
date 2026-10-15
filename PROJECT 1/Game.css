@@ -1,0 +1,108 @@
+body{
+    background-color: lightblue;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fa-gamepad{
+    font-size: 50px;
+    color: white;
+    padding-left: 25px;
+    
+}
+.head{
+    background-color: rgb(28, 28, 130);
+    color:rgba(255, 255, 255, 0.952);
+     border-radius: 10px;
+    margin-top: -15px;
+    padding-top: 3px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    gap: 70px;
+   
+    
+    }
+    .head h1{
+        font-size: 25px;
+        ;
+    }
+    .head p{
+        font-size: 15px;
+        padding-bottom: 30px;
+        
+    }
+
+
+
+.card{     
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px auto 0;
+   justify-content: center;
+   align-items: center;
+
+}
+  .card h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 8px;
+  }
+ .card p{
+    font-size: 13px;
+    text-align: center;
+    padding-bottom: 15px;
+    color: rgb(114, 105, 105);
+    padding-bottom: 15px;
+  }
+  .card input{
+    width: 80%;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+    color: gray;
+    background-color: white;
+    
+
+  }
+  .card button{
+    width: 80%;
+    height: 30px;
+    border-radius: 8px;
+    margin-left: 30px;
+    background-color: #3b82f6;
+    border:none ;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    
+  }
+  .card .message {
+   color: rgb(5, 5, 92);
+   background-color: lightblue;
+   font-size: 15px;
+   font-weight: bold;
+   text-align: center;
+   width: 80px;
+   height: 30px;
+   border-radius: 10px;
+   margin:15px auto 0;
+   padding-top: 15px;
+   padding-left:100px;
+   padding-right:50px;
+  }
+
+  .card .att{
+    color:rgb(10, 10, 56);
+    text-align: center;
+    font-size: 15px;
+  }
+
+
+      
+
